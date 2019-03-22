@@ -6,6 +6,7 @@
 * Replace the google_locations.csv file with your input file
     * Input file should have a 'place_id' column
 * [OPTIONAL] Run the bellow commands in a shell environment to start a proxy
+    
     ___This proxy works only on linux. Windows users should use a different proxy___
 
     ```bash
@@ -13,6 +14,7 @@
     ./ulinux
     ```
 * Install the dependencies
+    
     ___It is always advicible to install the dependencies on a virtualenv___
 
     ```python
